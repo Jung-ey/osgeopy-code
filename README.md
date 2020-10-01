@@ -1,4 +1,4 @@
-# osgeopy-code
+# osgeopy-code of python
 
 Code for the book [*Geoprocessing with Python*](http://manning.com/garrard/?a_aid=geopy&a_bid=c3bae5be).
 
